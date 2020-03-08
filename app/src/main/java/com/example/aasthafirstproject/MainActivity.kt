@@ -14,6 +14,5 @@ class MainActivity : AppCompatActivity() {
 
     fun showMessage(view: View) {
         Toast.makeText(this, "Hello There!Nice to meet you",Toast.LENGTH_LONG).show()
-
     }
 }
